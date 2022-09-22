@@ -1,0 +1,24 @@
+Deixarei aqui algumas instruções do que é necessário se fazer inicialmente para que o programa possa funcionar corretamente na sua máquina.
+
+
+1. Antes de abrir o programa será necessário que você baixe e instale no seu computador um programa chamado WampServer. 
+
+Link: https://www.wampserver.com/en/
+
+2. Após a instalação, executemos o programa WampServer. 
+
+3. Após a execução do programa iremos ao canto inferior direito da nossa tela e clicaremos no menu “Mostrar Ícones Ocultos”.
+
+4. Verifique se o ícone do WampServer está verde. 
+
+4.1. Caso não esteja verde, espere alguns minutos e olhe novamente, se continuar com uma cor diferente do verde teremos que procurar o que está motivando o erro.
+
+5. Se o ícone estiver verde, clicaremos nele com o botão esquerdo do mouse e procuraremos o menu com o nome “MySQL”.
+
+6. Ao parar o mouse em cima desse menu, irá aparecer uma aba com algumas opções relacionadas ao “MySQL”, clique em “MySQL console”. Isso nos dará acesso ao Shell do MySQL.
+
+7. Clicando na opção “MySQL console” provavelmente irá aparecer o menu “MySQL user” se o seu user estiver definido como “root” clique em ok. 
+
+8. Se tudo estiver dado certo até aqui, você entrara no shell e receberá a seguinte mensagem: “Enter password: ” deixe em branco e clique no botão enter. 
+
+9. Pronto, finalmente você tem acesso ao shell do MySQL e poderá utilizar as linhas de comando da apostila para gerar a base de dados que receberá os nossos dados cadastrados no programa. 
